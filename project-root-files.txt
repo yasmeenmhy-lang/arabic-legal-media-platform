@@ -1,0 +1,33 @@
+Root project folder name:
+i-want-to-develop-platform
+
+Root path:
+C:\Users\فايز\Documents\Codex\2026-06-07\i-want-to-develop-platform
+
+Top-level files and folders:
+app
+components
+lib
+outputs
+prisma
+public
+tests
+work
+.env
+.env.example
+.env.production.example
+.eslintrc.json
+.gitignore
+.vercelignore
+DEPLOYMENT_CHECKLIST.md
+middleware.ts
+next-env.d.ts
+next.config.mjs
+package.json
+postcss.config.js
+README.md
+tailwind.config.ts
+tsconfig.json
+vercel.json
+VERCEL_DEPLOYMENT.md
+vitest.config.ts
